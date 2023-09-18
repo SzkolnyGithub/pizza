@@ -1,0 +1,10 @@
+C:\Users\abadowski\source\repos\pizzaBadowski4c\pizzaBadowski4c\bin\Debug\pizzaBadowski4c.exe.config
+C:\Users\abadowski\source\repos\pizzaBadowski4c\pizzaBadowski4c\bin\Debug\pizzaBadowski4c.exe
+C:\Users\abadowski\source\repos\pizzaBadowski4c\pizzaBadowski4c\bin\Debug\pizzaBadowski4c.pdb
+C:\Users\abadowski\source\repos\pizzaBadowski4c\pizzaBadowski4c\obj\Debug\pizzaBadowski4c.csproj.AssemblyReference.cache
+C:\Users\abadowski\source\repos\pizzaBadowski4c\pizzaBadowski4c\obj\Debug\pizzaBadowski4c.Form1.resources
+C:\Users\abadowski\source\repos\pizzaBadowski4c\pizzaBadowski4c\obj\Debug\pizzaBadowski4c.Properties.Resources.resources
+C:\Users\abadowski\source\repos\pizzaBadowski4c\pizzaBadowski4c\obj\Debug\pizzaBadowski4c.csproj.GenerateResource.cache
+C:\Users\abadowski\source\repos\pizzaBadowski4c\pizzaBadowski4c\obj\Debug\pizzaBadowski4c.csproj.CoreCompileInputs.cache
+C:\Users\abadowski\source\repos\pizzaBadowski4c\pizzaBadowski4c\obj\Debug\pizzaBadowski4c.exe
+C:\Users\abadowski\source\repos\pizzaBadowski4c\pizzaBadowski4c\obj\Debug\pizzaBadowski4c.pdb
